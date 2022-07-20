@@ -20,6 +20,7 @@ I would like to take this time to explain a couple of terms related to kpop that
   * pip install pandas
   * pip install matplotlib
   * pip install numpy
+  * Install Jupyter Notebook or Anaconda Navigator
 
 * Run the Jupyter notebook: kpop-boy-groups-analysis.ipynb
 
