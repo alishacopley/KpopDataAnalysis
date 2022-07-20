@@ -8,7 +8,7 @@ This is a project that is meant to help me begin my journey to learning Python a
 
 If you'd like to contact me, you can do so at alisha.copley@gmail.com.
 
-# ***Project Plan*** #
+# **Project Plan** #
 
 Features to be included:
 
