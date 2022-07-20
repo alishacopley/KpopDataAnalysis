@@ -5,7 +5,7 @@
 ![](https://user-images.githubusercontent.com/105595555/180062468-db33ce72-6609-4f5c-9a79-066538397ba1.png)
 *Credit to allkpop.com for image*
 
-The purpose of this project is to analyze the structure of Korean (aka kpop) boy groups along with other aspects of the industry related to the creation of boy groups. Unlike western boybands that seem to rotate in and out of the cultural zeitgeist, in kpop boy groups are a staple and multiple groups debut every year with various levels of success. With this project, I will analyze the common structure of a boy group including the number of original members and how common it is for groups to lose members, as well as when they debuted and what companies are debuting the most groups. To do this, I've obtained data from Kaggle [thanks to dbkpop](https://www.kaggle.com/code/mpwolke/kpop-idols-boy-groups/data).
+The purpose of this project is to analyze the structure of Korean (aka kpop) boy groups along with other aspects of the industry related to the creation of boy groups. Unlike western boybands that seem to rotate in and out of the cultural zeitgeist, in kpop boy groups are a staple and multiple groups debut every year with various levels of success. With this project, I will analyze the common structure of a boy group including the number of original members and how common it is for groups to lose members, as well as when they debuted and what companies are debuting the most groups. To do this, I've obtained data from Kaggle [thanks to dbkpop](https://www.kaggle.com/code/mpwolke/kpop-idols-boy-groups/data?select=kpop_idols_boy_groups.csv).
 
 I would like to take this time to explain a couple of terms related to kpop that I will use in this project.
 
