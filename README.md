@@ -1,4 +1,4 @@
-# **The Lifespan of a Kpop Group** #
+# **The Structure of a Kpop Group** #
 
 The data used for this repository was obtained through Kaggle [thanks to dbkpop](https://www.kaggle.com/code/mpwolke/kpop-idols-boy-groups/data) and is used for my Code Kentucky data analysis project for July 2022.
 
@@ -8,7 +8,7 @@ This is a project that is meant to help me begin my journey to learning Python a
 
 If you'd like to contact me, you can do so at alisha.copley@gmail.com.
 
-# **Project Plan** #
+# ***Project Plan*** #
 
 Features to be included:
 
