@@ -34,6 +34,6 @@ I would like to take this time to explain a couple of terms related to kpop that
 
 3.  I analyzed my data by using five different calculations with pandas. I used min(), max(), median(), mode(), and sum() to analyze the members, original members, debut, and companies columns of data.
 
-4. I used matplotlib to visualize the data into a pie chart and a bar graph. Specifically, I made a pie chart to how many groups are active vs. how many are inactive or on hiatus. I also made a bar graph to show how many groups the Big 3 companies have debuted over the years.
+4. I used matplotlib to visualize the data into a pie chart and a bar graph. Specifically, I made a pie chart to how measure many groups are active vs. how many are inactive or on hiatus. I also made a bar graph to show how many groups the Big 3 companies have debuted over the years.
 
 5. I used markdown cells to explain my thought process and the code in my project.
